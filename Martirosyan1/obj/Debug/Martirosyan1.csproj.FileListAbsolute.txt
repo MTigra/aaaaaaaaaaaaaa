@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication1\Martirosyan1\bin\Debug\Martirosyan1.exe.config
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication1\Martirosyan1\obj\Debug\Martirosyan1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication1\Martirosyan1\bin\Debug\Martirosyan1.exe
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication1\Martirosyan1\bin\Debug\Martirosyan1.pdb
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication1\Martirosyan1\bin\Debug\ClassLibrary1.dll
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication1\Martirosyan1\bin\Debug\ClassLibrary1.pdb
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication1\Martirosyan1\obj\Debug\Martirosyan1.exe
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication1\Martirosyan1\obj\Debug\Martirosyan1.pdb
